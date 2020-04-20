@@ -20,9 +20,9 @@ $(window).resize(function() {
             $("#b1").hide("blind",500);
             $(".nm").hide( "blind",500, function () {
                 $("#am").removeClass("col-lg-3 mh", 500, "swing", function () {
-                    $(".ah").show(500);
+                    $(".ah").removeClass("dn", 500, "swing")
                 });
-             });
+            });
         });
     };
 });
