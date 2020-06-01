@@ -36,6 +36,9 @@
 
 ## Screenshots
 <img src="/screenshots/Screenshot 2020-06-02 at 1.07.35 AM.png" alt="Project Screenshots">
+<img src="/screenshots/Screenshot 2020-06-02 at 1.17.16 AM.png" alt="Project Screenshots">
+<img src="/screenshots/Screenshot 2020-06-02 at 1.18.07 AM.png" alt="Project Screenshots">
+<img src="/screenshots/Screenshot 2020-06-02 at 1.18.20 AM.png" alt="Project Screenshots">
 
 ## Instructions to run
 
